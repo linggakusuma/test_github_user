@@ -16,7 +16,7 @@ android {
         targetSdk 30
         versionCode 1
         versionName "1.0"
-        buildConfigField("String", "TOKEN_GITHUB", '"token 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"')
+        buildConfigField("String", "TOKEN_GITHUB", '"token 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"')
         buildConfigField 'String', 'BASE_URL', '"https://api.github.com/"'
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
